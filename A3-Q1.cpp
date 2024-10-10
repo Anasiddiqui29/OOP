@@ -8,7 +8,7 @@
 
 using namespace std ;
 
-//Running fine
+/*Medical Store*/
 
 class Medicine
 {
