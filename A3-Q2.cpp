@@ -7,7 +7,7 @@
 #include <sstream>
 
 using namespace std ;
-//Running fine
+
 template <typename T>
 class Pet
 {
