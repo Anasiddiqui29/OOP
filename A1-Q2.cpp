@@ -6,6 +6,8 @@
 
 using namespace std ;
 
+/*Cafeteria*/
+
 class Table
 {
     public:
