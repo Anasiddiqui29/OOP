@@ -5,6 +5,8 @@
 
 using namespace std ;
 
+/*Implementation of Restaurant with menu lists and coupons facility which can be used to apply for discounts*/
+
 class Restaurant
 {
     public:
