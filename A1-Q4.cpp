@@ -4,7 +4,7 @@
 #include <cstring>
 
 using namespace std ;
-
+/*Implemntation of Roller Coaster functions such as speed , capacity ,and when to start using OOP principles*/
 class RollerCoaster
 {
     string name ; 
