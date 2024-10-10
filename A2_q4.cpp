@@ -6,6 +6,8 @@
 
 using namespace std ; 
 
+/*Encryption*/
+
 class User
 {
     string username ; 
