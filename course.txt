@@ -1,0 +1,21 @@
+StudentID,Name,DateOfBirth,Course1,GPA1,Course2,GPA2,Course3,GPA3,Course4,GPA4,Course5,GPA5
+101,John Doe,1998-05-15,Computer Science,3.5,Electrical Engineering,3.2,Physics,3.7,Mathematics,3.4,Chemistry,3.6
+102,Jane Smith,1999-03-20,Physics,3.6,Chemistry,3.8,Mathematics,3.5,Biology,3.2,Computer Science,3.4
+103,Alice Johnson,1997-09-10,Computer Science,3.7,Electrical Engineering,3.5,Physics,3.8,Chemistry,3.9,Mathematics,3.6
+104,Michael Brown,1999-12-25,Physics,3.2,Mathematics,3.4,Chemistry,3.5,Biology,3.6,Computer Science,3.7
+105,Emily Wilson,1998-07-08,Mathematics,3.5,Computer Science,3.6,Chemistry,3.8,Biology,3.7,Physics,3.4
+106,David Martinez,1997-11-30,Computer Science,3.4,Physics,3.6,Chemistry,3.2,Mathematics,3.8,Electrical Engineering,3.5
+107,Sarah Taylor,1999-02-14,Physics,3.9,Chemistry,3.7,Mathematics,3.8,Biology,3.6,Computer Science,3.5
+108,James Garcia,1996-10-05,Chemistry,3.5,Physics,3.7,Mathematics,3.8,Computer Science,3.9,Biology,3.6
+109,Emma Rodriguez,1998-04-18,Mathematics,3.6,Biology,3.8,Chemistry,3.7,Physics,3.9,Computer Science,3.5
+110,William Lopez,1997-06-23,Computer Science,3.2,Mathematics,3.6,Physics,3.8,Chemistry,3.5,Biology,3.7
+111,Olivia Hernandez,1999-01-09,Physics,3.7,Chemistry,3.5,Computer Science,3.8,Biology,3.4,Mathematics,3.6
+112,Alexander Gonzalez,1998-08-12,Computer Science,3.6,Physics,3.5,Chemistry,3.7,Biology,3.4,Mathematics,3.8
+113,Sophia Perez,1997-03-17,Mathematics,3.5,Computer Science,3.6,Physics,3.8,Chemistry,3.7,Biology,3.9
+114,Nicholas Torres,1999-05-20,Computer Science,3.8,Physics,3.7,Chemistry,3.6,Biology,3.9,Mathematics,3.5
+115,Hannah Ramirez,1998-11-03,Physics,3.2,Computer Science,3.6,Mathematics,3.8,Biology,3.5,Chemistry,3.4
+116,Andrew Flores,1997-07-28,Computer Science,3.7,Physics,3.6,Chemistry,3.5,Mathematics,3.8,Biology,3.4
+117,Mia Washington,1999-09-15,Mathematics,3.4,Computer Science,3.6,Biology,3.8,Physics,3.7,Chemistry,3.5
+118,Ethan Collins,1998-01-06,Chemistry,3.5,Mathematics,3.8,Biology,3.6,Physics,3.7,Computer Science,3.4
+119,Abigail Lee,1997-04-21,Physics,3.6,Chemistry,3.8,Computer Science,3.5,Mathematics,3.7,Biology,3.4
+120,Daniel Hall,1999-10-31,Biology,3.7,Chemistry,3.5,Physics,3.8,Mathematics,3.6,Computer Science,3.4
